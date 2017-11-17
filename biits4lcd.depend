@@ -1,0 +1,226 @@
+# depslib dependency file v1.0
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\misc.c
+	"misc.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\misc.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\inc\system_stm32f10x.h
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1510746252 c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1510834400 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\src\delay.c
+	<stm32f10x_tim.h>
+	<stm32f10x_rcc.h>
+	<stdint.h>
+	<delay.h>
+
+1510834430 c:\users\denis\stmicroelectronics\embitz\biits4lcd\inc\delay.h
+
+1510846690 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\src\lcd1602.c
+	<stm32f10x_rcc.h>
+	<stm32f10x_gpio.h>
+	<delay.h>
+	<lcd1602.h>
+
+1510836821 c:\users\denis\stmicroelectronics\embitz\biits4lcd\inc\lcd1602.h
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\src\startup_stm32f10x_md.s
+
+1510746252 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1510836985 source:c:\users\denis\stmicroelectronics\embitz\biits4lcd\src\main.c
+	"stm32f10x_conf.h"
+	"lcd1602.h"
+	<delay.h>
+
